@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m İsra</h1>
-<h2>🎓 I am BSc in Computer Engineering student at Maltepe University.</h2>
+<h2>🎓 BsC Computer Engineering from Maltepe University</h2>
 
 <li>👀 I’m interested in front-end web development.</li>
 <li>🌱 I’m currently learning JavaScript and React.</li><br>
